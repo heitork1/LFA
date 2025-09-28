@@ -1,5 +1,3 @@
-Com certeza! Recapitulando e juntando as informações dos slides, aqui está a definição precisa da **função programa estendida** para a Máquina de Mealy generalizada que você apresentou.
-
 ### Contexto: A Definição da Máquina
 
 Primeiro, relembramos a definição da sua Máquina de Mealy:
