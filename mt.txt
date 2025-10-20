@@ -11,7 +11,8 @@ q0 1 q1 0
 q2 2 q2 e
 q2 3 q2 e
 q2 4 q2 e
-q2 . q0 e
+q2 . q0 1
+q2 1 q1 0
 q1 1 q1 e
 q1 2 q1 e
 q1 3 q1 e
